@@ -56,7 +56,7 @@ Password 1: X7vRmTqHp4
 Password 2: J9kPyWmLz3
 Password 3: B4nTsXqHp8
 
-##Code Details
+## Code Details
 - generate_password(length, use_upper, use_lower, use_digits, use_special)
 A helper function that generates a password of the specified length using the chosen character sets.
 
